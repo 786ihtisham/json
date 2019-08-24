@@ -1,0 +1,21 @@
+{
+  "Statistics": [
+    {
+      "id": 1,
+      "label": "AMCOR_PREMIUM_CARE_MGMT",
+      "segment": "Group",
+      "annualMemberReferred": "391",
+      "annualMemberManaged": "196",
+      "goalYTDMemberManaged": "66",
+      "actualYTDMemberManaged": "31",
+      "aboveBelowGoal": "0.72",
+      "maxthreshold": "1.00",
+      "throttleRecommendation": "N",
+      "throttleOverride": "N",
+      "priorityLoad": "1",
+      "asOfDate": "20190710",
+      "startDate": "20190101",
+      "endDate": "20191231"
+    }
+  ]
+}
